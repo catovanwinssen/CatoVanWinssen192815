@@ -1,0 +1,77 @@
+
+body{
+	background-color: #F0F0F0;
+	
+}
+
+
+h1{
+	font-family: krok,sans-serif;
+	font-size: 50px;
+	font-weight: 700;
+	font-style: normal;
+	color: white;
+	text-align: center;
+	padding: 20px;
+
+	
+}
+
+h2 {
+	font-family: krok,sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	text-align: center;
+	color: #D86847;
+	
+}
+
+
+
+p {
+	font-family: semplicitapro,sans-serif;
+	font-weight: 500;
+	font-style: normal;
+}
+
+header {
+	background-image: url("../images/header.jpg");
+	height: 100px;
+	margin-bottom: 10px;
+	
+}
+
+.img-fluid {
+	align-content: center;
+	
+}
+
+
+img {
+	height: 30px;
+}
+
+footer {
+	background-color: #D86847;
+	color: white;
+	font-family: semplicitapro,sans-serif;
+	
+}
+
+.jumbotron {
+	background-color: #d86847;
+	color: white;
+	padding: 20px;
+	
+}
+
+.btn-primary {
+	background-color: white;
+	border: solid black;
+	color: #d86847;
+}
+
+.card {
+	margin-bottom: 15px;
+	margin-top: 15px;
+}
